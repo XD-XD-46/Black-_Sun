@@ -1,0 +1,161 @@
+from turtle import *
+
+t1 = Turtle()
+t2 = Turtle()
+t3 = Turtle()
+t4 = Turtle()
+t5 = Turtle()
+t6 = Turtle()
+t7 = Turtle()
+t8 = Turtle()
+t9 = Turtle()
+t10 = Turtle()
+t11 = Turtle()
+t12 = Turtle()
+t13 = Turtle()
+t14 = Turtle()
+
+t13.goto(0,-205)
+t13.speed(1000)
+t13.width(15)
+for i in range(1):
+    t13.circle(210)
+
+t14.speed(1000)
+t14.goto(0,-55)
+t14.width(15)
+for i in range(120):
+    t14.fd(3)
+    t14.lt(3)
+
+t1.speed(1000)
+t1.goto(0,0)
+t1.width(15)
+for i in range(1):
+    t1.lt(90)
+    t1.fd(150)
+    t1.rt(90)
+    t1.fd(50)
+    t1.lt(90)
+    t1.fd(50)
+
+
+t2.speed(1000)
+t2.goto(0,0)
+t2.width(15)
+for i in range(1):
+    t2.lt(60)
+    t2.fd(150)
+    t2.rt(90)
+    t2.fd(50)
+    t2.lt(90)
+    t2.fd(50)
+
+t3.speed(1000)
+t3.goto(0,0)
+t3.width(15)
+for i in range(1):
+    t3.lt(30)
+    t3.fd(150)
+    t3.rt(90)
+    t3.fd(50)
+    t3.lt(90)
+    t3.fd(50)
+
+t4.speed(1000)
+t4.goto(0,0)
+t4.width(15)
+for i in range(1):
+    t4.fd(150)
+    t4.rt(90)
+    t4.fd(50)
+    t4.lt(90)
+    t4.fd(50)
+
+t5.speed(1000)
+t5.goto(0,0)
+t5.width(15)
+for i in range(1):
+    t5.rt(30)
+    t5.fd(150)
+    t5.rt(90)
+    t5.fd(50)
+    t5.lt(90)
+    t5.fd(50)
+
+t6.speed(1000)
+t6.goto(0,0)
+t6.width(15)
+for i in range(1):
+    t6.rt(60)
+    t6.fd(150)
+    t6.rt(90)
+    t6.fd(50)
+    t6.lt(90)
+    t6.fd(50)
+
+t7.speed(1000)
+t7.goto(0,0)
+t7.width(15)
+for i in range(1):
+    t7.rt(90)
+    t7.fd(150)
+    t7.rt(90)
+    t7.fd(50)
+    t7.lt(90)
+    t7.fd(50)
+
+t8.speed(1000)
+t8.goto(0,0)
+t8.width(15)
+for i in range(1):
+    t8.rt(120)
+    t8.fd(150)
+    t8.rt(90)
+    t8.fd(50)
+    t8.lt(90)
+    t8.fd(50)
+
+t9.speed(1000)
+t9.goto(0,0)
+t9.width(15)
+for i in range(1):
+    t9.rt(150)
+    t9.fd(150)
+    t9.rt(90)
+    t9.fd(50)
+    t9.lt(90)
+    t9.fd(50)
+
+t10.speed(1000)
+t10.goto(0,0)
+t10.width(15)
+for i in range(1):
+    t10.rt(180)
+    t10.fd(150)
+    t10.rt(90)
+    t10.fd(50)
+    t10.lt(90)
+    t10.fd(50)
+
+t11.speed(1000)
+t11.goto(0,0)
+t11.width(15)
+for i in range(1):
+    t11.rt(210)
+    t11.fd(150)
+    t11.rt(90)
+    t11.fd(50)
+    t11.lt(90)
+    t11.fd(50)
+
+t12.speed(1000)
+t12.goto(0,0)
+t12.width(15)
+for i in range(1):
+    t12.rt(240)
+    t12.fd(150)
+    t12.rt(90)
+    t12.fd(50)
+    t12.lt(90)
+    t12.fd(50)
